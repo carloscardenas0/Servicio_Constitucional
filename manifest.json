@@ -1,0 +1,24 @@
+{
+    "name": "lista de tareas",
+    "short-name": "lista de tareas",
+    "description": "Una sencilla aplicacion que sirve para aorganizar tus tareas",
+    "background-color": "#20b2aa",
+    "theme-color": "#20b2aa",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es.MX",
+    "icons": [
+        {
+            "src": "./img/lista_de_tareas_192.jpeg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/lista_de_tareas_512.jpeg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
